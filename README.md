@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Web Developer and Cloud Enthusiast</h3>
 
 - 🔭 I’m currently working on **Delta Trading - Trading Platform for Options**
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning ****
 - 💬 Ask me about **JavaScript:React:Bootstrap**
 - 📫 Reach me at **daigavane70@gmail.com**
 
