@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Vedant</h1>
-<h3 align="center">Student @ Pune Institute of Computer Technology</h3>
+<h3 align="center">Student @ <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> </h3>
 <h3 align="center">Frontend Web Developer and Cloud Enthusiast</h3>
 
 - 🔭 I’m currently working on **Delta Trading - Trading Platform for Options**
