@@ -2,7 +2,7 @@
 <h3 align="center">Student @ Pune Institute of Computer Technology</h3>
 <h3 align="center">Frontend Web Developer and Cloud Enthusiast</h3>
 
-- 🔭 I’m currently working on ** Delta Trading - Trading Platform for Options**
+- 🔭 I’m currently working on **Delta Trading - Trading Platform for Options**
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 - 💬 Ask me about **Django, Html & Css**
 - 📫 Reach me at **daigavane70@gmail.com**
@@ -22,7 +22,6 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="python"/> </a> 
 
 
