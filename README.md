@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Delta Trading - Trading Platform for Options**
 - 🌱 I’m currently learning **Data Science and Machine Learning**
-- 💬 Ask me about **Django, Html & Css**
+- 💬 Ask me about **JavaScript:React:Bootstrap**
 - 📫 Reach me at **daigavane70@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daigavane70&label=Profile%20views&color=0e75b6&style=flat" alt="daigavane70" /> </p>
