@@ -3,8 +3,8 @@
 <h3 align="center">Frontend Web Developer and Cloud Enthusiast</h3>
 
 - 🔭 I’m currently working on **Delta Trading - Trading Platform for Options**
-- 🌱 I’m currently learning ****
-- 💬 Ask me about **JavaScript:React:Bootstrap**
+- 🌱 I’m currently learning **Django**
+- 💬 Ask me about **JavaScript : React : Bootstrap**
 - 📫 Reach me at **daigavane70@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daigavane70&label=Profile%20views&color=0e75b6&style=flat" alt="daigavane70" /> </p>
