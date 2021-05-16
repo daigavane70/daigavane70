@@ -33,7 +33,7 @@
         src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="css3" />
     </a>
     <a href="https://www.python.org" target="_blank"> 
-    <img src="	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
         alt="python" /> </a>
     <a href="https://www.linux.org/" target="_blank"> <img
         src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
