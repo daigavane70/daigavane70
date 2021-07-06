@@ -15,8 +15,8 @@
   <p align="left"> <img
       src="https://komarev.com/ghpvc/?username=daigavane70&label=Profile%20views&color=0e75b6&style=flat"
       alt="daigavane70" /> </p>
-
-  <img align='center' height='200' width='400' src={'https://media.tenor.com/images/fe946c78f4616be4d8be68b8936631be/tenor.gif'}></img>
+  
+  <img align='center' height='200' width='400' src='https://media.tenor.com/images/fe946c78f4616be4d8be68b8936631be/tenor.gif'></img>
   
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
