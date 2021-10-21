@@ -9,7 +9,7 @@
 
   - 🔭 I’m currently working on **Delta Trading - Trading Platform for Options**
   - 🌱 I’m currently learning **Django**
-  - 💬 Ask me about **JavaScript : React : Bootstrap**
+  - 💬 Ask me about **JavaScript : React : Node Js**
   - 📫 Reach me at **daigavane70@gmail.com**
 
   <p align="left"> <img
