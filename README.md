@@ -71,7 +71,7 @@
         alt="mysql" width="40" height="40" /> </a>
    <a href="https://www.mongodb.com/" target="_blank"> <img
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-        alt="mysql" width="40" height="40" /> </a>
+        alt="mysql" height="40" /> </a>
 
    <br>
 
