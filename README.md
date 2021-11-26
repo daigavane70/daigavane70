@@ -16,7 +16,7 @@
       src="https://komarev.com/ghpvc/?username=daigavane70&label=Profile%20views&color=0e75b6&style=flat"
       alt="daigavane70" /> </p>
   
-  <div width="100%" align="center" ><img align="center" height='200' width='400' src='https://writing-systems.com/wp-content/uploads/2019/08/programming.gif'></img></div>
+  <div width="100%" align="center" ><img align="center" height='300' width='400' src='https://writing-systems.com/wp-content/uploads/2019/08/programming.gif'></img></div>
   
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
