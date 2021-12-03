@@ -16,9 +16,9 @@
       src="https://komarev.com/ghpvc/?username=daigavane70&label=Visitors&color=0e75b6&style=flat"
       alt="daigavane70" /> </p>
 
-<table width='100%' style='border: 0px'>
-<tr>
-<td width='50%' style='border: none; text-align: justify'>
+<table width='100%' style='border: 0px;'>
+<tr style='border: 0px;'>
+<td width='50%' style='border: 0px; text-align: justify;'>
    <a href="https://www.w3schools.com/cpp/" target="_blank" style='display: inline-block'> <img
         src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'
         alt="cplusplus" /> </a><a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img
