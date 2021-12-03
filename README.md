@@ -16,9 +16,9 @@
       src="https://komarev.com/ghpvc/?username=daigavane70&label=Visitors&color=0e75b6&style=flat"
       alt="daigavane70" /> </p>
 
-<table width='100%'>
+<table width='100%' style='border: none'>
 <tr>
-<td width='50%' style='border: 0px; text-align: justify'>
+<td width='50%' style='border: none; text-align: justify'>
    <a href="https://www.w3schools.com/cpp/" target="_blank" style='display: inline-block'> <img
         src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'
         alt="cplusplus" /> </a><a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img
@@ -54,7 +54,7 @@
         alt="mysql" /> </a>
 </td>
 <td style='border: 0px; vertical-align: top;'>
-<img align="center" height='200' width='400px' src='https://writing-systems.com/wp-content/uploads/2019/08/programming.gif'/>
+ <img align="center" height='300' width='400px' src='https://writing-systems.com/wp-content/uploads/2019/08/programming.gif'/>
 </td>
 </tr>
 </table>
