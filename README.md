@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
+  <style>
+td, th {
+   border: none!important;
+}
+</style>
+  
 <body>
   <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Vedant
   </h1>
@@ -18,7 +24,7 @@
 
 <table width='100%' style='border: 0px; border-color: black;'>
 <tr style='border: 0px;'>
-<td width='50%' style='border: 0px; text-align: justify; border-color: black;'>
+<td width='50%' style='border: 0px; text-align: justify;'>
    <a href="https://www.w3schools.com/cpp/" target="_blank" style='display: inline-block'> <img
         src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'
         alt="cplusplus" /> </a><a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img
