@@ -17,7 +17,7 @@
       alt="daigavane70" /> </p>
   
   <div width="100%" align="justify" style='display: flex' >
-  <div width='50%' style='width: 50%; text-align: justify; display: inline'>
+  <div width='50%' style='width: 50%; text-align: justify; display: inline-flex'>
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
         src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'
         alt="cplusplus" /> </a>
