@@ -16,7 +16,7 @@
       src="https://komarev.com/ghpvc/?username=daigavane70&label=Visitors&color=0e75b6&style=flat"
       alt="daigavane70" /> </p>
 
-<table width='100%' style='border: none'>
+<table width='100%' style='border: 0px'>
 <tr>
 <td width='50%' style='border: none; text-align: justify'>
    <a href="https://www.w3schools.com/cpp/" target="_blank" style='display: inline-block'> <img
