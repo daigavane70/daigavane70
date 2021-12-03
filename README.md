@@ -16,8 +16,12 @@
       src="https://komarev.com/ghpvc/?username=daigavane70&label=Profile%20views&color=0e75b6&style=flat"
       alt="daigavane70" /> </p>
   
-  <div width="100%" align="justify" style='display: flex' >
-  <div width='50%' style='width: 50%; text-align: justify; display: inline-flex'>
+  <div width="100%" align="center" ><img align="center" height='300' width='400' src='https://writing-systems.com/wp-content/uploads/2019/08/programming.gif'></img></div>
+  
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left">
+
+
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img
         src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'
         alt="cplusplus" /> </a>
@@ -73,12 +77,6 @@
         alt="mysql" /> </a>
 
    <br>
-  </div>
-  
-  <img align="center" height='200' width='300' src='https://writing-systems.com/wp-content/uploads/2019/08/programming.gif'>
-  
-  </div>
-
 
   <p align="center"><img align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=prussian"
