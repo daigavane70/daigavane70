@@ -7,9 +7,9 @@
   <h3 align="center">Student @ <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> </h3>
   <h3 align="center">Full Stack Web Developer and Cloud Enthusiast</h3>
 
-  - 🔭 I’m currently working on **Delta Trading - Trading Platform for Options**
-  - 🌱 I’m currently learning **Django**
-  - 💬 Ask me about **JavaScript : React : Node Js**
+  - 🔭 I’m currently working on Mutual Funds Broker App 
+  - 🌱 I’m currently learning Spring | Sring Boot | Spring Webflux
+  - 💬 Ask me about **JavaScript : React : Express Js : MongoDB**
   - 📫 Reach me at **daigavane70@gmail.com**
 
   <p align="left"> <img
