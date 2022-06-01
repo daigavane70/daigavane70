@@ -2,7 +2,7 @@
 <html lang="en">
 
 <body>
-  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Vedant
+  <h1 align="center">Hi 👋, I'm Vedant
   </h1>
   <h3 align="center">Student @ <a href="https://pict.edu/#"> Pune Institute of Computer Technology</a> </h3>
   <h3 align="center">Full Stack Web Developer and Cloud Enthusiast</h3>
