@@ -47,9 +47,7 @@
     <a href="https://www.linux.org/" target="_blank"> <img
         src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
     </a>
-
  <br>
-
 <a href="https://reactjs.org/" target="_blank"> <img
         src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' alt="React" />
     </a>
@@ -70,15 +68,14 @@
         alt="material-ui" /> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img
         src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
-
    <br>
-
    <a href="https://www.mysql.com/" target="_blank"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-        alt="mysql" width="40" height="40" /> </a>
+        src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black"
+        alt="mysql" /> </a>
    <a href="https://www.mongodb.com/" target="_blank"> <img
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="mysql" /> </a>
+<a href='https://redis.io/'> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /> </a>
 
    <br>
 
