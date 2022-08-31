@@ -31,6 +31,7 @@
         src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'
         alt="JavaScript" /> </a>
         <a href='https://spring.io/projects/spring-boot'> <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /> </a>
+        <a href='https://kafka.apache.org/'> <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" /> </a>
     <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank"> <img
         src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'
         alt="JavaScript" /> </a>
