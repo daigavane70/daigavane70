@@ -2,6 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
+  <style>
+td, th {
+   border: none!important;
+}
+</style>
+  
 <body>
   <h1 align="center">Hi 👋, I'm Vedant
   </h1>
