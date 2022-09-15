@@ -87,12 +87,9 @@
   
   <table>
   <tr>
-    <td>
-      <p align="center">
-      &nbsp;<img align="center"
+    <td><img align="center"
               src="https://github-readme-stats.vercel.app/api?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=prussian"
                alt="daigavane70" />
-      </p>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=daigavane70&theme=prussian" />
