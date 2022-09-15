@@ -93,8 +93,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daigavane70&theme=prussian" alt="daigavane70" /></p>
 -->
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=daigavane70&theme=dracula" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=daigavane70&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=daigavane70&theme=prussian" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=daigavane70&theme=prussian&hide_border=true" />
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=akshat2602&theme=dracula&show_icons=true&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2602&theme=dracula&show_icons=true&count_private=true&layout=compact" /> -->
 </p>
