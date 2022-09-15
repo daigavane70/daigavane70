@@ -85,14 +85,13 @@
       src="https://github-readme-stats.vercel.app/api/top-langs?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=prussian"
       alt="daigavane70" /></p>
 
-  <p align="center">&nbsp;<img align="center"
+      &nbsp;<img align="center"
       src="https://github-readme-stats.vercel.app/api?username=daigavane70&show_icons=true&locale=en&layout=compact&theme=prussian"
       alt="daigavane70" /></p>
 
   <!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daigavane70&theme=prussian" alt="daigavane70" /></p>
 -->
-<p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=daigavane70&theme=prussian" />
   <img src="https://activity-graph.herokuapp.com/graph?username=daigavane70&theme=nord&hide_border=true" />
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=akshat2602&theme=dracula&show_icons=true&count_private=true" />
