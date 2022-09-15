@@ -41,11 +41,15 @@ td, th {
         src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'
         alt="JavaScript" /> </a>
 <a href='https://nodejs.org/en/'> <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white'> </a>
+<a href='https://expressjs.com/'> <img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB'> </a>
 <a href="https://www.java.com" target="_blank"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
         width="40" height="40" /> </a>
 <a href="https://github.com/" target="_blank"> <img
         src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="css3" />
+</a>
+<a href="https://www.docker.com/" target="_blank"> <img
+        src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 </a>
 <a href="https://www.python.org" target="_blank">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
@@ -63,6 +67,9 @@ td, th {
 <a href="https://redux.js.org/" target="_blank"> <img
         src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white' alt="Redux" />
 </a>
+<a href="https://storybook.js.org/" target="_blank"> <img
+        src='https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white' alt="StoryBook" />
+</a>
 <a href="https://reactrouter.com/" target="_blank"> <img
         src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'
         alt="React-Router" />
@@ -72,15 +79,21 @@ td, th {
 <a href="https://material-ui.com/" target="_blank"> <img
         src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"
         alt="material-ui" /> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img
+        src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+        alt="tailwindcss" /> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img
         src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
 <br>
 <a href="https://www.mysql.com/" target="_blank"> <img
         src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=black"
         alt="mysql" /> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img
+        src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+        alt="postgressql" /> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-        alt="mysql" /> </a>
+        alt="mongodb" /> </a>
 <a href='https://redis.io/'> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /> </a>
 
    <br>
