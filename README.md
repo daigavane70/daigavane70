@@ -88,6 +88,12 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img
         src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
         alt="mongodb" /> </a>
+<a href="https://grafana.com/"> 
+      <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+    </a>
+<a href="https://prometheus.io/"> 
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
+    </a>
 <a href='https://redis.io/'> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /> </a>
 
    <br>
