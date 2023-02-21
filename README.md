@@ -8,8 +8,8 @@
   <h3 align="center">Full Stack Web Developer and Cloud Enthusiast</h3>
 
 - 🔭 I’m currently working on Mutual Funds Broker App
-- 🌱 I’m currently learning Spring | Sring Boot | Spring Webflux
-- 💬 Ask me about **JavaScript : React : Express Js : MongoDB**
+- 🌱 I’m currently learning Terraform
+- 💬 Ask me about **JavaScript : Sring Boot : React : Express Js : MongoDB**
 - 📫 Reach me at **daigavane70@gmail.com**
 
   <p align="left"> <img
